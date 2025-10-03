@@ -2,6 +2,7 @@ Install all the dependencies in your virtual environment .venv
 ------------------------
 Make an .env file
 GOOGLE_API_KEY=your key here
+get your api keys here: https://aistudio.google.com/api-keys
 --------------------
 make a database name it insurance_ai, make 2 tables for accounts and admins with 
 Fields: name (varchar), email (varchar), age (int), sex (varchar - 'Male' or 'Female'), 
